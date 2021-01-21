@@ -1,6 +1,2 @@
-mongodb+srv://ifelawal:WfK8rb9tPzOOhAoC@cluster0.eswwp.mongodb.net/ReactCourse?retryWrites=true&w=majority
+[React for the rest of us udemy course by Brad Schiff](https://www.udemy.com/course/react-for-the-rest-of-us/learn/lecture/19269034#content)
 
-JWTSECRET
-
-ife
-123456abcdefg
